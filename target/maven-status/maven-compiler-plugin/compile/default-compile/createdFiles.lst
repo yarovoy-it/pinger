@@ -1,0 +1,4 @@
+by/intexsoft/service/PingService.class
+by/intexsoft/dto/ErrorResponseDto.class
+by/intexsoft/PingApplication.class
+by/intexsoft/config/RestExceptionHandler.class
